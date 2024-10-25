@@ -1,0 +1,1 @@
+# FAANGA-tayorgarlik
