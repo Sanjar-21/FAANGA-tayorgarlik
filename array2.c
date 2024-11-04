@@ -11,7 +11,7 @@ int main(void) {
 
   for (int i = 0; i < size; i++) {
     for (int j = 0; j < size; j++) {
-      if (array[i] == array[j]) {
+      if (array[i] == array[j + 1]) {
         new_array[i]++;
       }
     }
