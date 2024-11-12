@@ -16,3 +16,4 @@ int main(void) {
   }
   return 0;
 }
+// masivni teskarisga qilib tahlash
