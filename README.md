@@ -1,1 +1,3 @@
 # FAANGA-tayorgarlik
+
+# c mashqlar 
