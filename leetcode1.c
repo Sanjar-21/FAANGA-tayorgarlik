@@ -1,6 +1,7 @@
 // letcodga link
 // 70. Climbing Stairs
 // https://leetcode.com/problems/climbing-stairs/
+
 int climbStairs(int n) {
   if (n <= 2)
     return n;
