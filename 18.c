@@ -1,5 +1,14 @@
 #include <stdio.h>
 
+/*******************************************************************************
+*
+* Program: Dot product
+*
+* YouTube havola: https://www.youtube.com/watch?v=cJybIb_JvuY 
+*
+* Dars 18 
+*
+*******************************************************************************/
 
 float dot_product(float v1[], float v2[], int lenght) ;
 
