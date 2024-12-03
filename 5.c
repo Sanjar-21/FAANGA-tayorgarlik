@@ -11,7 +11,7 @@ int main(void) {
 
   printf("middle: %d\n", middle);
   for (int i = 0; i < middle; i++) {
-      if (string[i] != string[len - i - 1]) {
+    if (string[i] != string[len - i - 1]) {
       printf("So'z palindrom emas.\n");
       return 12; // Bir xil bo'lmagan harflar topildi
     }
