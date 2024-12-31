@@ -13,6 +13,6 @@ class Dasturlash_uz:
         while index < len(num):
             if num[index] == n:
                 return True
-            else:
-                return False
+            index += 1
+        return False
     
