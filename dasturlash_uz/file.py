@@ -8,4 +8,11 @@ class Dasturlash_uz:
         return min(num)
     def uch(num: List[int]) -> int:
         return sum(num) // len(num)
+    def turt(num: List[int], n: int) -> bool:
+        index = 0
+        while index < len(num):
+            if num[index] == n:
+                return True
+            else:
+                return False
     
